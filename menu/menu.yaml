@@ -111,6 +111,7 @@
       Url: "nservicebus/handlers"
       Articles:
         - "nservicebus/handlers/handler-ordering"
+        - "nservicebus/handlers/async-handlers"
     -
       Title: "Sagas"
       Url: "nservicebus/sagas"
